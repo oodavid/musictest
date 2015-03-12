@@ -1,0 +1,17 @@
+{
+  "appID": "fba75611f6f543f08b17a46eed631fe1",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v2.3.0"
+  },
+  "shortName": "musicrig",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "musicrig"
+}
