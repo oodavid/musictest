@@ -3,15 +3,14 @@
   "dependencies": {
     "devkit-core": "https://github.com/gameclosure/devkit-core#v2.3.0"
   },
-  "shortName": "musicrig",
+  "shortName": "demoAudioManager",
   "studio": {
     "domain": "studio.example.com",
     "name": "Your Studio Name",
     "stagingDomain": "staging.example.com"
   },
   "supportedOrientations": [
-    "portrait",
-    "landscape"
+    "portrait"
   ],
-  "title": "musicrig"
+  "title": "demoAudioManager"
 }
